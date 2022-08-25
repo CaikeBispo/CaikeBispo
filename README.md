@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about wathever you want
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Retired Skateboarder ;) 
+- ⚡ Fun fact: Retired Skateboarder :skateboard: :smile:	
 
 
 
