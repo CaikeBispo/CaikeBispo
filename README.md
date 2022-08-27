@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Financial Market
 <!--  -->
-- 🌱 I’m currently learning Java, Kotlin, Spring and Microservices.
+- 🌱 I’m currently studing Java, Kotlin, Spring and Microservices.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about wathever you want
