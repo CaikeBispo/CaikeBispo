@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   
-  - Languages that i'm currently learning <br />
+  - Languages that i'm currently studing <br />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caikebispo&layout=compact&langs_count=7&theme=dark"/>
   
   - Statistics <br />
