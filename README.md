@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Retired Skateboarder :skateboard: :smile:	
 
-
-
 <div>
 - Languages that i'm currently learning <br />
 <a href="https://github.com/caikebispo">
