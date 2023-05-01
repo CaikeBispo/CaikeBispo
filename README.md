@@ -5,7 +5,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on Financial Market and studing Java, Kotlin, Spring, Microservices and Theology :pray:.
+- 🔭 I’m currently working on financial market and studing Java, Kotlin, Spring, Microservices and Theology :pray:.
 - ⚡ Fun fact: Retired Skateboarder :skateboard: :smile:	
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caikebispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
