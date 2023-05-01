@@ -6,19 +6,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Financial Market and studing Java, Kotlin, Spring and Microservices.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about wathever you want
-<!-- - 📫 How to reach me: ... -->
-
 - ⚡ Fun fact: Retired Skateboarder :skateboard: :smile:	
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caikebispo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-
-
-- Languages that i'm currently studing <br />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caikebispo&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caikebispo&layout=compact&langs_count=7&theme=dark"/>
 <!--
 [Contribution](https://activity-graph.herokuapp.com/graph?username=CAIKEBISPO&&theme=xcode&hide_border=true&area=true) 
 -->
